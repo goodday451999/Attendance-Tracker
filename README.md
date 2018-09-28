@@ -1,6 +1,6 @@
 # Attendance-Tracker
 
-Semester Project Under Software Engineering (SOE532C) Course
+5th Semester Project Under Software Engineering (SOE532C) Course
 
 # Supervisor
 Dr. Abhishek Vyas
